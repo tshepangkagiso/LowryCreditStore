@@ -1,0 +1,8 @@
+C:\Users\27660\Desktop\LowryCreditStore\LowryCreditStoreApp\bin\Debug\LowryCreditStoreApp.exe.config
+C:\Users\27660\Desktop\LowryCreditStore\LowryCreditStoreApp\bin\Debug\LowryCreditStoreApp.exe
+C:\Users\27660\Desktop\LowryCreditStore\LowryCreditStoreApp\bin\Debug\LowryCreditStoreApp.pdb
+C:\Users\27660\Desktop\LowryCreditStore\LowryCreditStoreApp\obj\Debug\LowryCreditStoreApp.csproj.AssemblyReference.cache
+C:\Users\27660\Desktop\LowryCreditStore\LowryCreditStoreApp\obj\Debug\LowryCreditStoreApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\27660\Desktop\LowryCreditStore\LowryCreditStoreApp\obj\Debug\LowryCreditStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\27660\Desktop\LowryCreditStore\LowryCreditStoreApp\obj\Debug\LowryCreditStoreApp.exe
+C:\Users\27660\Desktop\LowryCreditStore\LowryCreditStoreApp\obj\Debug\LowryCreditStoreApp.pdb
